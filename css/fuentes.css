@@ -1,0 +1,16 @@
+@font-face {
+	font-family:sourcesans-regular;
+	src:url(../fuentes/sourcesans/SourceSansPro-Regular.otf);
+}
+@font-face {
+	font-family:sourcesans-bold;
+	src:url(../fuentes/sourcesans/SourceSansPro-Bold.otf);
+}
+@font-face {
+	font-family:sourcesans-light;
+	src:url(../fuentes/sourcesans/SourceSansPro-Light.otf);
+}
+@font-face {
+	font-family:sourcesans-semibold;
+	src:url(../fuentes/sourcesans/SourceSansPro-Semibold.otf);
+}
